@@ -1,8 +1,4 @@
-# Hardhat Hackathon Boilerplate
-
-This repository contains a sample project that you can use as the starting point
-for your Ethereum project. It's also a great fit for learning the basics of
-smart contract development.
+# Application-of-Blockchain-Technology-in-Supply-Chain-Management
 
 This project is intended to be used with the
 [Hardhat Beginners Tutorial](https://hardhat.org/tutorial), but you should be
@@ -49,46 +45,24 @@ Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
 need to have [Metamask](https://metamask.io) installed and listening to
 `localhost 8545`.
 
-## User Guide
+## Tools Used
 
-You can find detailed instructions on using this repository and many tips in [its documentation](https://hardhat.org/tutorial).
+- Solidity
+- Hardhat
+- ReactJS
+- Alchemy
+- MetaMask
 
-- [Writing and compiling contracts](https://hardhat.org/tutorial/writing-and-compiling-contracts/)
-- [Setting up the environment](https://hardhat.org/tutorial/setting-up-the-environment/)
-- [Testing Contracts](https://hardhat.org/tutorial/testing-contracts/)
-- [Setting up Metamask](https://hardhat.org/tutorial/hackathon-boilerplate-project.html#how-to-use-it)
-- [Hardhat's full documentation](https://hardhat.org/getting-started/)
+## Screen shots of WEB 3.0 APP:
 
-For a complete introduction to Hardhat, refer to [this guide](https://hardhat.org/getting-started/#overview).
+<img width="281" alt="image" src="https://user-images.githubusercontent.com/77844108/168944569-e666a1a1-7c25-4c23-8297-bf5583550c97.png">
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/77844108/168944579-1e245616-c306-4e9f-9c2f-a60647fa32f9.png">
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/77844108/168944602-87aaee28-9e57-42ed-8fd1-a65f8574750f.png">
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/77844108/168944621-7383fce1-772e-4d7d-bb97-a815555b3a7a.png">
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/77844108/168944657-b4d87899-7488-4d87-9e74-825377bf81e0.png">
 
-## What’s Included?
+## Conclusion
 
-Your environment will have everything you need to build a Dapp powered by Hardhat and React.
-
-- [Hardhat](https://hardhat.org/): An Ethereum development task runner and testing network.
-- [Mocha](https://mochajs.org/): A JavaScript test runner.
-- [Chai](https://www.chaijs.com/): A JavaScript assertion library.
-- [ethers.js](https://docs.ethers.io/v5/): A JavaScript library for interacting with Ethereum.
-- [Waffle](https://github.com/EthWorks/Waffle/): To have Ethereum-specific Chai assertions/mathers.
-- [A sample frontend/Dapp](./frontend): A Dapp which uses [Create React App](https://github.com/facebook/create-react-app).
-
-## Troubleshooting
-
-- `Invalid nonce` errors: if you are seeing this error on the `npx hardhat node`
-  console, try resetting your Metamask account. This will reset the account's
-  transaction history and also the nonce. Open Metamask, click on your account
-  followed by `Settings > Advanced > Reset Account`.
-
-## Feedback, help and news
-
-We'd love to have your feedback on this tutorial. Feel free to reach us through
-this repository or [our Discord server](https://invite.gg/HardhatSupport).
-
-Also you can [follow us on Twitter](https://twitter.com/HardhatHQ).
-
-**Happy _building_!**
+With its distributed ledger technology, which provides an open, unchangeable record of transactions that is freely accessible by all relevant parties, blockchain can address these supply chain management concerns. Smart contracts, which are self-executing agreements that are placed on the blockchain, can help to boost transparency, traceability, and efficiency across a supply chain. They can be used to track the movement of items across a supply chain, determine provenance, provide transparent credentialing and reputation management, and automatically execute payments. This helps supply chain partners create trust and saves time and cost inefficiencies associated with overlapping effort and additional verification processes. Because real-time data can be used to assist decision-making, it also speeds up the supply chain and makes it more agile in handling risks and interruptions.
 
 
-0x2b346E86C795dFEaB7AB9a169F6d7532c781afFb# Application-of-Blockchain-Technology-in-Supply-Chain-Management
-# Application-of-Blockchain-Technology-in-Supply-Chain-Management
-# Application-of-Blockchain-Technology-in-Supply-Chain-Management
